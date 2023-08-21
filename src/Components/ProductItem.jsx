@@ -37,11 +37,12 @@ export default ProductItem;
 
 const styles = StyleSheet.create({
     image: {
-        height: 120,
+        height: "90%",
         width: "40%",
-        minWidth: 150,
-        maxWidth: 250,
+        minWidth: 100,
+        maxWidth: 270,
         borderRadius: 8,
+        marginRight: 5,
     },
     additionalStylesCard: {
         flexDirection: "row",

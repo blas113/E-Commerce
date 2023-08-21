@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
         borderRadius: 50,
     },
     buttons:{
-        borderRadius: 5,
+        borderRadius: 8,
         backgroundColor: colors.blue
     }
 });
