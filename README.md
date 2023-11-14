@@ -2,7 +2,7 @@
 
 Proyecto de E-commerce realizado en React-Native y JavaScript.
 
-Para esto implemente librerias como redux, para menjo de estados y React-navigation, para la navegacion.
+Para esto implemente librerias como redux, para manejos de estados y React-navigation, para la navegacion.
 
 Para la base de datos utilice SQLite y Firebase para la persistencia de datos y la autenticacion.
 
